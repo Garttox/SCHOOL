@@ -1,2 +1,2 @@
 # SCHOOL
-School projects
+School projects - Michal Trlica
