@@ -1,0 +1,6 @@
+class;name;age;height;weight;sex
+Human;dsfaxdsfasdf;25;1.8;104;WOMAN
+Human;asdfasdf;20;1.8;70;MAN
+Sportsman;dfdf;20;1.8;70;MAN
+Sportsman;dfdfdfdf;20;1.8;70;MAN
+Sportsman;gdfg;20;1.8;70;MAN
